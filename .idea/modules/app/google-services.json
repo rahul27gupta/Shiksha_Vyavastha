@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553373835262",
+    "firebase_url": "https://shiksha-vyavastha.firebaseio.com",
+    "project_id": "shiksha-vyavastha",
+    "storage_bucket": "shiksha-vyavastha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553373835262:android:923a618cafa1f9a75ceaaf",
+        "android_client_info": {
+          "package_name": "com.shikshavyavastha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553373835262-gknt7ii11cvsas7dm36noug0q9h6ad6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shikshavyavastha",
+            "certificate_hash": "7ae44aef7a702e0979a8ba7fac5716b924d55727"
+          }
+        },
+        {
+          "client_id": "553373835262-ev8fj0i0ub6u8qsddhlrpfa8k1v1hji8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE-RWqCzw1wWjvk-Qkd3QMa7kHndlyPis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553373835262-ev8fj0i0ub6u8qsddhlrpfa8k1v1hji8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

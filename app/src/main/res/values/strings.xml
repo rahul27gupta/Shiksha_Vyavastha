@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shiksha Vyavastha</string>
+    <string name="resettxt1">You can reset your password here.</string>
+    <string name="resettxt2">Enter Your Email To Receive Reset Link</string>
+</resources>
